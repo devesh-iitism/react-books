@@ -1,8 +1,3 @@
 {
-  "books": [
-    {
-      "title": "ABCD",
-      "id": 1
-    }
-  ]
+  "books": []
 }
